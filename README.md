@@ -8,8 +8,18 @@ There is a need for a method to retain the tree structure in uncertain data, to 
 3.Adding the new transactions to the original tree and obtaining the frequent patterns\
 
 # 1.Constructing the original tree
-a. Constructing accumulation table
-b. Sorting the items according to their probabilities in transactions record
-c. Sorting the transactions
-d. Constructing the tree
-e. Identifying the frequent patterns
+a. Constructing accumulation table\
+b. Sorting the items according to their probabilities in transactions record\
+c. Sorting the transactions\
+d. Constructing the tree\
+e. Identifying the frequent patterns\
+ 2.Updating the accumulation table and tree based on the new transactions added and loading the new transactions\
+3.Adding the new transactions to the original tree and obtaining the frequent patterns\
+ 4.Splitting \
+
+ 5.Adjusting\
+
+ 6.Merging\
+
+ 7.Tree Updating\
+ 8.Parallelization of the very first module which is independent of previous outputs.\
