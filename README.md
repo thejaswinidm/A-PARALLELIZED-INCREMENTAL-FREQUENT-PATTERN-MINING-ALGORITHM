@@ -15,11 +15,11 @@ d. Constructing the tree\
 e. Identifying the frequent patterns\
  2.Updating the accumulation table and tree based on the new transactions added and loading the new transactions\
 3.Adding the new transactions to the original tree and obtaining the frequent patterns\
- 4.Splitting \
+ 4.Splitting
 
- 5.Adjusting\
+ 5.Adjusting
 
- 6.Merging\
+ 6.Merging
 
  7.Tree Updating\
- 8.Parallelization of the very first module which is independent of previous outputs.\
+ 8.Parallelization of the very first module which is independent of previous outputs.
